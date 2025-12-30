@@ -55,7 +55,7 @@ I specialize in automating deployment pipelines, container orchestration, and in
 > Built complete CI/CD pipeline using GitLab, Docker, and Kubernetes on AWS.  
 > Implemented liveness/readiness probes, Prometheus-Grafana monitoring, and self-healing.
 
-🔹 [**Automated Multi-Tier Web Infrastructure Deployment on AWS**](https://github.com/HARSHAL45THAKUR/Automated-Multi-Tier-Web-Infrastructure-Deployment-on-AWS)  
+🔹 [**Automated Multi-Tier Web Infrastructure Deployment on AWS**](https://github.com/thakurharshal/Automated-Multi-Tier-Web-Infrastructure-Deployment-on-AWS)  
 > Provisioned multi-tier AWS infra with Terraform and deployed containerized apps via GitLab CI/CD.  
 > Included auto-scaling, load balancing, and CloudWatch-based monitoring.
 
@@ -81,21 +81,21 @@ I specialize in automating deployment pipelines, container orchestration, and in
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARSHAL45THAKUR&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" alt="Harshal's GitHub stats" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHAL45THAKUR&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Langs" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thakurharshal&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" alt="Harshal's GitHub stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakurharshal&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Langs" width="40%" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HARSHAL45THAKUR&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=thakurharshal&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" alt="GitHub Streak" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHAL45THAKUR&bg_color=0d1117&color=58A6FF&line=F8D866&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thakurharshal&bg_color=0d1117&color=58A6FF&line=F8D866&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ### 🐍 Contribution Graph
 
-![snake gif](https://github.com/HARSHAL45THAKUR/HARSHAL45THAKUR/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/HARSHAL45THAKUR/thakurharshal/blob/output/github-snake-dark.svg)
 
 ---
 
@@ -105,11 +105,11 @@ I specialize in automating deployment pipelines, container orchestration, and in
 
 
 <p align="center">
-  <a href="https://github.com/HARSHAL45THAKUR">
-    <img src="https://komarev.com/ghpvc/?username=HARSHAL45THAKUR&label=Profile%20views&color=green&style=flat" alt="profile views" />
+  <a href="https://github.com/thakurharshal">
+    <img src="https://komarev.com/ghpvc/?username=thakurharshal&label=Profile%20views&color=green&style=flat" alt="profile views" />
   </a>
-  <a href="https://github.com/HARSHAL45THAKUR?tab=followers">
-    <img src="https://img.shields.io/github/followers/HARSHAL45THAKUR?label=Follow&style=social" alt="GitHub followers" />
+  <a href="https://github.com/thakurharshal?tab=followers">
+    <img src="https://img.shields.io/github/followers/thakurharshal?label=Follow&style=social" alt="GitHub followers" />
   </a>
 </p>
 
