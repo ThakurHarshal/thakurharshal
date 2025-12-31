@@ -19,7 +19,7 @@ I specialize in automating deployment pipelines, container orchestration, and in
 
 #### Cloud & DevOps
 <p align="left">
-  <img src="https://raw.githubusercontent.com/HARSHAL45THAKUR/HARSHAL45THAKUR/refs/heads/main/aws-color.webp" alt="AWS" width="40"/>
+  <img src="https://raw.githubusercontent.com/thakur-harshal/thakur-harshal/refs/heads/main/aws-color.webp" alt="AWS" width="40"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40"/>
   &nbsp;&nbsp;
@@ -47,15 +47,15 @@ I specialize in automating deployment pipelines, container orchestration, and in
 
 ###  Featured Projects
 
-🔹 [**GitOps-Based Kubernetes Deployment Using ArgoCD**](https://github.com/HARSHAL45THAKUR/GitOps-Based-Kubernetes-Deployment-Using-ArgoCD-on-AWS-EKS)  
+🔹 [**GitOps-Based Kubernetes Deployment Using ArgoCD**](https://github.com/thakur-harshal/GitOps-Based-Kubernetes-Deployment-Using-ArgoCD-on-AWS-EKS)  
 > Provisioned EKS clusters using Terraform and Helm charts.  
 > Implemented GitOps workflows via ArgoCD for automated Git-to-Kubernetes deployments.
 
-🔹 [**End-to-End DevOps Pipeline with Kubernetes & Self-Healing Microservices**](https://github.com/HARSHAL45THAKUR/END-TO-END-DEVIOPS-K8S-AWS)  
+🔹 [**End-to-End DevOps Pipeline with Kubernetes & Self-Healing Microservices**](https://github.com/thakur-harshal/END-TO-END-DEVIOPS-K8S-AWS)  
 > Built complete CI/CD pipeline using GitLab, Docker, and Kubernetes on AWS.  
 > Implemented liveness/readiness probes, Prometheus-Grafana monitoring, and self-healing.
 
-🔹 [**Automated Multi-Tier Web Infrastructure Deployment on AWS**](https://github.com/thakurharshal/Automated-Multi-Tier-Web-Infrastructure-Deployment-on-AWS)  
+🔹 [**Automated Multi-Tier Web Infrastructure Deployment on AWS**](https://github.com/thakur-harshal/Automated-Multi-Tier-Web-Infrastructure-Deployment-on-AWS)  
 > Provisioned multi-tier AWS infra with Terraform and deployed containerized apps via GitLab CI/CD.  
 > Included auto-scaling, load balancing, and CloudWatch-based monitoring.
 
@@ -69,7 +69,7 @@ I specialize in automating deployment pipelines, container orchestration, and in
   </a>
   &nbsp;&nbsp;
   <a href="https://medium.com/@cloudwithharshal" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/HARSHAL45THAKUR/HARSHAL45THAKUR/refs/heads/main/medium-logo-icon.webp" alt="Medium" height="30" />
+    <img align="center" src="https://raw.githubusercontent.com/thakur-harshal/thakur-harshal/refs/heads/main/medium-logo-icon.webp" alt="Medium" height="30" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:harshalthakur34035@gmail.com" target="_blank">
@@ -81,21 +81,21 @@ I specialize in automating deployment pipelines, container orchestration, and in
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thakurharshal&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" alt="Harshal's GitHub stats" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakurharshal&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Langs" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thakur-harshal&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" alt="Harshal's GitHub stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thakur-harshal&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Langs" width="40%" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thakurharshal&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" alt="GitHub Streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=thakur-harshal&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=F8D866&currStreakLabel=58A6FF" alt="GitHub Streak" height="180"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thakurharshal&bg_color=0d1117&color=58A6FF&line=F8D866&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thakur-harshal&bg_color=0d1117&color=58A6FF&line=F8D866&point=FFFFFF&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
 
 ### 🐍 Contribution Graph
 
-![snake gif](https://github.com/thakurharshal/thakurharshal/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/thakur-harshal/thakur-harshal/blob/output/github-snake-dark.svg)
 
 ---
 
@@ -105,11 +105,11 @@ I specialize in automating deployment pipelines, container orchestration, and in
 
 
 <p align="center">
-  <a href="https://github.com/thakurharshal">
-    <img src="https://komarev.com/ghpvc/?username=thakurharshal&label=Profile%20views&color=green&style=flat" alt="profile views" />
+  <a href="https://github.com/thakur-harshal">
+    <img src="https://komarev.com/ghpvc/?username=thakur-harshal&label=Profile%20views&color=green&style=flat" alt="profile views" />
   </a>
-  <a href="https://github.com/thakurharshal?tab=followers">
-    <img src="https://img.shields.io/github/followers/thakurharshal?label=Follow&style=social" alt="GitHub followers" />
+  <a href="https://github.com/thakur-harshal?tab=followers">
+    <img src="https://img.shields.io/github/followers/thakur-harshal?label=Follow&style=social" alt="GitHub followers" />
   </a>
 </p>
 
@@ -117,7 +117,7 @@ I specialize in automating deployment pipelines, container orchestration, and in
 
 
 <!--
-**HARSHAL45THAKUR/HARSHAL45THAKUR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thakur-harshal/thakur-harshal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -133,7 +133,7 @@ Here are some ideas to get you started:
 
 
 <!--
-**HARSHAL45THAKUR/HARSHAL45THAKUR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thakur-harshal/thakur-harshal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
